@@ -1,3 +1,4 @@
 Sillas
 Mesas
 camas
+sofas
