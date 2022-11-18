@@ -3,3 +3,4 @@ Mesas
 camas
 sofas
 espera
+sillones
