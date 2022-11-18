@@ -2,3 +2,4 @@ Sillas
 Mesas
 camas
 sofas
+espera
